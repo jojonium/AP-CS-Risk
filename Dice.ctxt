@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dice()
+comment1.params=a\ b
+comment1.target=int\ compare(Die,\ Die)
+comment2.params=
+comment2.target=void\ sortDice()
+comment3.params=numOfDice
+comment3.target=java.util.ArrayList\ diceRoll(int)
+comment4.params=
+comment4.target=int\ first()
+comment5.params=
+comment5.target=int\ second()
+numComments=6

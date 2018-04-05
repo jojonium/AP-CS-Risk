@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=cod
+comment0.target=void\ draw(CountryDeck)
+comment1.params=cod
+comment1.target=GUI_project(CountryDeck)
+comment2.params=
+comment2.target=void\ setAllVisible()
+comment3.params=
+comment3.target=javax.swing.JPanel\ getPane()
+comment4.params=button\ color
+comment4.target=void\ changeButtonColor(javax.swing.JButton,\ java.awt.Color)
+comment5.params=country\ player
+comment5.target=void\ updateCountry(Country,\ Player)
+comment6.params=pl1\ pl2
+comment6.target=void\ updateAll(Player,\ Player)
+numComments=7
